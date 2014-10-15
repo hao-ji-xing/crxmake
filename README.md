@@ -26,4 +26,4 @@ crxmake.sh <extension dir> <pem path>
 
 #### Windows 上怎么用?
 
-如果你是用 `cygwin` 应该没有任何问题, 如果你只有 `Git Bash`, 可能会缺少 `xxd` 和 `zip` 命令, 你可以从[这里](https://github.com/darkfe/crxmake/bin/)下载到这两个`exe`.
+如果你是用 `cygwin` 应该没有任何问题, 如果你只有 `Git Bash`, 可能会缺少 `xxd` 和 `zip` 命令, 你可以从[这里](https://github.com/darkfe/crxmake/tree/master/bin)下载到这两个`exe`.
